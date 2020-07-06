@@ -1,0 +1,7 @@
+#lightgallery > .product-image{border: 1px solid #ededed; text-align: center;}
+#lightgallery a{text-decoration: none;}
+#lightgallery a:first-child {text-decoration: none;width: 100%;display: block;padding: 10px;margin-bottom: 20px;border: 1px solid;}
+.lg-toolbar .lg-icon {   
+    background: #000;
+    border: 1px solid #000;
+}
