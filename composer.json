@@ -10,8 +10,7 @@
 
     },
     "type": "magento2-module",
-    "version": "0.1.1",
-    "license": "OSL 3.0",
+    "version": "0.0.1",    
     "autoload": {
         "files": [
             "registration.php"
