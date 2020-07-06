@@ -1,9 +1,9 @@
 {
     "name": "onetikk/onetikkk-m2-lightgallery",
-    "description": "Magento module wrapper for LightGallery",
+    "description": "Magento 2 module wrapper for LightGallery with Image Zoom",
     "require": {
         "php": "*",
-        "msp/common": "*",
+        "onetikk/common": "*",
         "magento/magento-composer-installer": "*"
     },
     "suggest": {
