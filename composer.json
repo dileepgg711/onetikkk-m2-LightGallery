@@ -1,5 +1,5 @@
 {
-    "name": "onetikk/onetikkk-m2-LightGallery",
+    "name": "onetikk/onetikkk-m2-lightgallery",
     "description": "Magento module wrapper for LightGallery",
     "require": {
         "php": "*",
