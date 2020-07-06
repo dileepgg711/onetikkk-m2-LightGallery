@@ -1,0 +1,7 @@
+{
+    "name" : "onetikk-magento-lightgallery",
+    "description" : "Magento 2 LightGallery with zoom module.",
+    "homepage" : "https://github.com/dileepgg711/onetikkk-m2-LightGallery",
+    "keywords" : ["magento", "magneto2", "lightgallery", "image", "zoom"],   
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
